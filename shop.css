@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(170, 221, 252);
+}
+
+.pageHeader {
+    font-size: 5rem;
+    font-family: 'Shadows Into Light';
+    color: rgba(109, 99, 79, 1);
+}
+
+.shop {
+    background-color: beige;
+    border-color: rgba(145, 100, 3, 0.836);
+    margin-bottom: 20px;
+}
+
+.shop h2 {
+    color: snow;
+    background-color: rgb(153, 153, 153);
+    margin: 0;
+    padding: 14px 0;
+    font-family: 'Shadows Into Light';
+    font-size: 2rem;
+
+}
+
+img {
+    width: 150px;
+    margin-left: 21%;
+    border: solid white 4px;
+    border-radius: 25px;
+
+}
+
+.coffeeMain {
+    border-bottom: 4px dotted rgba(96, 79, 41, 0.84);
+    background-color: beige;
+    margin-bottom: 30px;
+    padding: 10px;
+    justify-content: flex-end;
+    align-items: center;
+}

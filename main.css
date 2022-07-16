@@ -1,0 +1,31 @@
+.shop {
+    border-style: dashed;
+    border-width: 1px;
+    width: 400px;
+}
+
+
+div {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+header {
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+    padding-right: 10px;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+}
